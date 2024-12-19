@@ -1,0 +1,2 @@
+Prefix plugins/IRLBA/example/
+Plugin IRLBA inputfile ScaleCenter.rds outputfile IRLBA.rds
